@@ -66,7 +66,17 @@ In case of collaboration please:
 
 ### Web Security
 
-- TBA
+- 1st mandatory assignment deadline: March 2, 2017
+- 2nd mandatory assignment deadline: April 20, 2017
+- Exam Project:
+  - Deadline: May 27, 2017
+  - Need to be a group project
+  - Writing a small report
+  - Exam dates will be in June
+- [Google Drive Folder](https://drive.google.com/drive/folders/0ByBJPBcZLg0LeWh6WFJtZ2pWOVE)
+- Slides
+  - [Slide 1](https://drive.google.com/drive/folders/0ByBJPBcZLg0LeWh6WFJtZ2pWOVE)
+
 
 ### Project Management
 
