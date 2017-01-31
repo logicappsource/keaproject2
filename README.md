@@ -63,6 +63,13 @@ In case of collaboration please:
 ### iOS Development
 
 - [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12) (MacOS / OS X only)
+- [Module document and calendar](https://docs.google.com/document/d/1fy-vwJ_mh5pkdbzbZW8zu4cgH5Q6zQR7VbDme64AovQ/edit)
+- 2 mandatory assignments
+- Exam Project:
+  - Both mandatory assignments are required to qualify for the exam
+  - Can be an individual and a group project as well
+  - Short report (5 pages)
+  - Deadline: May 31. 2017
 
 ### Web Security
 
@@ -76,7 +83,6 @@ In case of collaboration please:
 - [Google Drive Folder](https://drive.google.com/drive/folders/0ByBJPBcZLg0LeWh6WFJtZ2pWOVE)
 - Slides
   - [Slide 1](https://drive.google.com/drive/folders/0ByBJPBcZLg0LeWh6WFJtZ2pWOVE)
-
 
 ### Project Management
 
