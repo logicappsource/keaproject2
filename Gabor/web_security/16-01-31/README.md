@@ -28,9 +28,13 @@ Learning about hacking in general, basic cryptography, security principles, secu
 
 ### Requirements
 
-  - Ubuntu 16.04 LTS (with VMware)
-	- XAMPP / LAMPP / WAMPP
-	- Burp Suite
-	- Damn Vulnerable Web application
-	- Firefox
-	- Firebug extension for Firefox
+- Ubuntu 16.04 LTS (with VMware)
+- XAMPP / LAMPP / WAMPP
+- Burp Suite
+- Damn Vulnerable Web application
+- Firefox
+- Firebug extension for Firefox
+
+### Course folder
+
+- https://drive.google.com/drive/folders/0ByBJPBcZLg0LeWh6WFJtZ2pWOVE
